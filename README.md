@@ -11,6 +11,8 @@
 
 <p>3. Enjoy It!</p>
 
+<p>4. in route docs/api see doc project</p>
+
 <h2>🍰 Contribution Guidelines:</h2>
 
 Have Test Phpunit For Api
